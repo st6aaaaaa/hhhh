@@ -1,4 +1,7 @@
 'kkkk'
+
+def sr(s):
+    return len(s) == 2
 def func(a,b):
   return a + b 
 
