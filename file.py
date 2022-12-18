@@ -10,3 +10,6 @@ def fun(a,b):
 
 def fun(a,b):
     return a*b
+
+def func_github():
+    print("from github")
