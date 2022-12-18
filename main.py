@@ -7,3 +7,9 @@ def func(a,b):
 
 def func1(a,b):
   return a % b == 2 
+
+from datetime import date
+
+d = date('2019-11-23')
+print(d)
+
