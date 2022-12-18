@@ -2,14 +2,11 @@ def func(*args):
     print( all( a> 0 for a in args) )
 
 func(1,2,3,0)
+func(1,3)
 
-def pc(a,b):
-    return a * b
-def fun(a,b):
-    print(a//b, a%b)
 
-def fun(a,b):
-    return a*b
+def pc_branch():
+    print('hello')
 
 def func_github():
     print("from github")
